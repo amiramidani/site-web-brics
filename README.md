@@ -3,22 +3,21 @@
 Projet de Programmation Web (2e année Licence Informatique de Gestion, 2025/2026).
 Site de 4 pages qui présente l'origine, les objectifs et l'impact économique du groupe BRICS+.
 
+**Voir le site en ligne : https://amiramidani.github.io/site-web-brics/**
+
 ## Pages
 - `index.html` : accueil et tableau des dates clés
 - `origine.html` : origine du BRICS+
 - `objectif.html` : objectifs du BRICS+
 - `impact.html` : impact économique mondial
 
-## Structure
-- `css/` : feuilles de style (`main.css`, `page.css`)
-- `images/` : images et logo
-- `rapport/` : rapport du projet (PDF)
-
-## Voir le site
-Ouvrir `index.html` dans un navigateur.
+## Contenu du dépôt
+- `main.css`, `page.css` : feuilles de style
+- fichiers `.jpg` et `.png` : images et logo
+- `rapport du projet.pdf` : rapport du projet
 
 ## Outils
-HTML5, CSS3
+HTML5, CSS3, GitHub Pages
 
 ## Auteures
 Amira Midani et Eya Ibn Abdelhedi
